@@ -2,7 +2,6 @@
 Coursera - Fundamentals of Web Development Project2
 Requirements
 ALL THE REQUIRMENTS FROM PROJECT 1 STILL APPLY!
-
 One valid, error-free CSS file with your original code; and one file containing the CSS reset code you used. Both linked from the head of all three HTML files
 Apply at least five of the same style elements to each of your pages. Example removing the list-style from navigation on all three pages with a single CSS deceleration.
 Apply at least five different style elements to each of your pages.
